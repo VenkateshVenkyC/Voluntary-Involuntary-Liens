@@ -1,5 +1,5 @@
 ## Voluntary-Involuntary-Liens
-## Both involuntary and voluntary liens significantly impact property titles.
+### Both involuntary and voluntary liens significantly impact property titles.
 
 ### **Involuntary Liens**
 
